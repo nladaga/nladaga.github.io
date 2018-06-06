@@ -1,0 +1,40 @@
+body, html{
+	width: 100%
+	height: auto;
+}
+
+body{
+	font-family: 'Cantora One', sans-serif;
+}
+
+body{
+    width: 100%;
+    height: auto;
+    background-image: url('header.jpeg');
+    background-size: cover;
+}
+
+.faded{
+	color: rgba(217,65,0,0.8);
+	margin-top: 150px;
+}
+
+.paragraf{
+	color: rgba(217,65,0,0.8);
+	margin-top: 300px;
+	font-size: 140%;
+}
+
+.btn-group{
+	margin-left: 15px;
+	font-family: 'Cantora One', sans-serif;
+}
+
+.btn-secondary{
+	background-color: rgba(217,65,0,0.8);
+}
+
+.btn-secondary:hover{
+	background-color: rgba(176,64,0,0.8);
+
+}
